@@ -1,0 +1,9 @@
+C:\Users\Gökhan\Documents\Visual Studio 2017\Projects\zeplinYL\zeplinYL\bin\Debug\zeplinYL.exe.config
+C:\Users\Gökhan\Documents\Visual Studio 2017\Projects\zeplinYL\zeplinYL\bin\Debug\zeplinYL.exe
+C:\Users\Gökhan\Documents\Visual Studio 2017\Projects\zeplinYL\zeplinYL\bin\Debug\zeplinYL.pdb
+C:\Users\Gökhan\Documents\Visual Studio 2017\Projects\zeplinYL\zeplinYL\obj\Debug\zeplinYL.csprojResolveAssemblyReference.cache
+C:\Users\Gökhan\Documents\Visual Studio 2017\Projects\zeplinYL\zeplinYL\obj\Debug\zeplinYL.Form1.resources
+C:\Users\Gökhan\Documents\Visual Studio 2017\Projects\zeplinYL\zeplinYL\obj\Debug\zeplinYL.Properties.Resources.resources
+C:\Users\Gökhan\Documents\Visual Studio 2017\Projects\zeplinYL\zeplinYL\obj\Debug\zeplinYL.csproj.GenerateResource.Cache
+C:\Users\Gökhan\Documents\Visual Studio 2017\Projects\zeplinYL\zeplinYL\obj\Debug\zeplinYL.exe
+C:\Users\Gökhan\Documents\Visual Studio 2017\Projects\zeplinYL\zeplinYL\obj\Debug\zeplinYL.pdb
